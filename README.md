@@ -1,5 +1,3 @@
-## Hi there 👋
-
 👋 Hi, I’m Habiba
 
 BS Computer Science student pursuing Certified Ethical Hacker (CEH) certification.

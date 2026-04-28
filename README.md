@@ -18,10 +18,10 @@
  </p>
 
 ##  ABOUT ME
-- 🔐 Cybersecurity (CEH Path – learning in progress)
-- 🐍 Python automation & scripting builder
-- 🌐 Network reconnaissance + OSINT explorer
-- 💀 I break systems (to understand & secure them)
+-  Cybersecurity (CEH)
+-  Python automation & scripting builder
+- Network reconnaissance + OSINT explorer
+- I break systems (to understand & secure them)
 
 ---
 
@@ -64,8 +64,7 @@
 
 <p align="center">
 <pre>
-$ booting cyber profile...
-$ loading hacker identity...
+$ booting cyber profile....
 $ scanning skills...
 $ injecting confidence...
 $ STATUS: ACTIVE THREAT INTEL MODE 💀
@@ -76,7 +75,7 @@ $ STATUS: ACTIVE THREAT INTEL MODE 💀
 
 ## 🌐 OSINT DASHBOARD STYLE
 
-- IP tracking basics
+- IP tracking 
 - WHOIS lookups
 - DNS enumeration
 - Social footprint analysis

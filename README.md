@@ -55,7 +55,7 @@ I research, exploit, document, and report. Every lab I do has a full write-up.
 
 | # | Lab | What I Proved |
 |---|-----|--------------|
-| 01 | [Windows SRM Analysis](./labs/srm-lab) | Demonstrated token impersonation bypasses kernel-level access control entirely — SRM trusts the token, not the user |
+| 01 | [[Windows SRM Analysis](https://github.com/Ume-Habiba-0x/Windows-Srm-Token-Impersonation)) | Demonstrated token impersonation bypasses kernel-level access control entirely — SRM trusts the token, not the user |
 | 02 | [Samba RCE — CVE-2007-2447](./labs/samba-rce) | Exploited username map script injection to achieve unauthenticated root shell on unpatched Samba 3.0.20 |
 | 03 | [Vulnerability Assessment](./labs/vuln-assessment) | Identified 7 vulnerabilities with CVSS scores up to 9.8; produced professional remediation report |
 | 04 | [Scanning & Enumeration](./labs/scanning-enum) | Mapped full attack surface of Metasploitable 2; discovered writable anonymous SMB share and valid user disclosure |

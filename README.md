@@ -1,12 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4fd8,100:0f0c29&height=200&section=header&text=Ume-Habiba-0x&fontColor=ffffff&fontSize=35"/>
-</p>
-
-
 ## About
 
-Cybersecurity student focused on **malware analysis, Windows internals, and offensive security**.
-I document labs, reverse engineering findings, vulnerability assessments, and exploitation workflows through hands-on research.
+Focused on hands-on security learning through offensive security labs and structured vulnerability analysis to understand how systems behave and how they can be secured.
 
 ```bash
 $ currently: researching, documenting, building
@@ -28,24 +22,7 @@ $ currently: researching, documenting, building
 ---
 
 ## Languages
-
 `Python` `Bash`
 
 ## Tools
-
-`Wireshark` `Nmap` `Burp Suite` `Metasploit` 
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ume-Habiba-0x&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ume-Habiba-0x&theme=radical"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:ff4fd8&height=100&section=footer"/>
-</p>
+`Nmap` `Wireshark` `Burp Suite` `Metasploit` `kali Linux`

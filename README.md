@@ -1,28 +1,33 @@
-## About
+<h1 align="center">Hi, I'm Ume Habiba </h1>
 
-Focused on hands-on security learning through offensive security labs and structured vulnerability analysis to understand how systems behave and how they can be secured.
+<p align="center">
+  <strong>Security-Focused engineer exploring systems from the inside out.</strong>
+</p>
 
-```bash
-$ currently: researching, documenting, building
-```
+ 
+
+I believe the best way to secure systems is to understand how they're built — a question like "how does an API work?" usually pulls me into Linux, networking, auth, and architecture, and I follow it. My projects combine backend engineering, Linux, DevSecOps, and offensive security:I build systems from scratch, study how they behave, identify where they fail, and document both the vulnerabilities and the engineering decisions behind the fixes.
+
+## Featured Projects
+Every repository is an attempt to understand a real engineering or security problem by building, testing, and documenting it.
+
+| Project | Description | Status |
+| ------- | ------------ | :----: |
+| **[Secure API Lab](https://github.com/Ume-Habiba-0x/secure-api-lab)** | Production-style API with authentication, threat modeling, and DevSecOps testing pipeline. | In Progress |
+| **[Windows SRM Token Impersonation](https://github.com/Ume-Habiba-0x/Windows-Srm-Token-Impersonation)** | Windows Security Reference Monitor research: token impersonation, privilege escalation, persistence. | Complete |
+| **[Metasploitable 2 Vulnerability Assessment](https://github.com/Ume-Habiba-0x/metasploitable2-vulnerability-assessment)** | Enumeration, CVE validation, CVSS scoring, remediation reporting. | Complete |
+| **[ASRCE](https://github.com/Ume-Habiba-0x/ASRCE)** | Async attack surface recon: subdomain discovery, enrichment, risk classification. | Complete |
+| **[Network Sniffer](https://github.com/Ume-Habiba-0x/CodeAlpha_NetworkSniffer)** | Python packet capture and protocol analysis. | Complete |
+| **[Cyber Playbooks](https://github.com/Ume-Habiba-0x/Cyber_playbooks-personal-)** | Linux and offensive security notes, commands, workflows. | In Progress |
 
 ---
 
-## Labs
+## Current Focus
 
-| # | Project | Summary |
-|---|---------|---------|
-| 01 | [Windows SRM Analysis](https://github.com/Ume-Habiba-0x/Windows-Srm-Token-Impersonation) | Analyzed Windows SRM token trust mechanics and demonstrated token impersonation behavior |
-| 02 | [Samba RCE — CVE-2007-2447](https://github.com/Ume-Habiba-0x/offensive-security-labs/tree/main/Samba-CVE-2007-2447) | Exploited a vulnerable Samba service on Metasploitable 2 to gain unauthenticated root shell access via username map script injection. |
-| 03 | [Vulnerability Assessment — Metasploitable 2 (Apache Tomcat)](https://github.com/Ume-Habiba-0x/metasploitable2-vulnerability-assessment/tree/main/tomcat-8180-vulnerability-assessment) | Performed lab-based vulnerability assessment against Metasploitable 2 — service enumeration, CVE validation (CVE-2020-1938), CVSS v3 risk prioritization, and remediation reporting |
-| 04 | Scanning & Enumeration | Mapped the attack surface of Metasploitable 2 and identified insecure SMB configurations |
-| 05 | FTP Exploitation | Demonstrated remote code execution through anonymous FTP write permissions |
-| 06 | Android Malware Analysis | Performed static malware analysis and extracted C2 indicators and credential-harvesting behavior |
+`Linux & Systems` · `Python & Backend` · `Secure API Development` · `Auth & Authorization` · `DevSecOps & Secure SDLC` · `Cloud & Container Security` · `LLM Security`
 
----
-
-## Languages
-`Python` `Bash`
-
-## Tools
-`Nmap` `Wireshark` `Burp Suite` `Metasploit` `kali Linux`
+<p align="center">
+  <a href="https://github.com/Ume-Habiba-0x"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/umyy-habiba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://tryhackme.com/p/0xUmmy"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
+</p>
